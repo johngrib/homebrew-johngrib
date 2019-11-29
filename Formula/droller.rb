@@ -1,8 +1,8 @@
 class Droller < Formula
   desc "Droller"
   homepage "https://github.com/johngrib/droller/"
-  url "https://github.com/johngrib/droller/archive/v1.0.1.tar.gz"
-  sha256 "34709c30f433f099cd30175e8b9896ece78d827e6f58b11a112c8c44bb110dbd"
+  url "https://github.com/johngrib/droller/archive/v1.0.2.tar.gz"
+  sha256 "c5a610af0e6c9b144ded052789d666c1ad71270ee0b89b45b0825ac73f3f19c1"
 
   def install
     bin.install "./bin/droller"
